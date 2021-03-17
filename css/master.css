@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courgette', cursive, sans-serif;
+    color: #555;
+    background-color: lightgrey;
+}
+
+h1 {
+    color: rgb(119, 11, 192);
+    font-weight: 600;
+    font-size: 300%;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(119, 11, 192);
+    font-weight: 400;
+    font-size: 200%;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(119, 11, 192);
+    font-weight: 400;
+    font-size: 200%;
+    text-align: left;
+}
+
+caption{
+    color: black;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    align-content: center;
+}
+
+p{
+    color: black;
+    font-size: 110%;
+    text-align: center;
+}
+
+li{
+    text-align: left;
+    font-size: 150%;
+    color: black;
+}
+
+table{
+    color: black;
+}
+
+tr{
+    color: black;
+    text-align: center;
+}
